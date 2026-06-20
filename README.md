@@ -71,9 +71,22 @@ Track: **Executive Functions**
 ---
 
 ## Author
+
 **Vedant Jaiswal**
 
 ---
 
 ## License
 This project is intended for research and educational purposes.
+
+## Future Work
+
+Potential extensions of this benchmark include:
+
+* Multi-task executive function evaluation
+* Cross-model cognitive ability comparisons
+* Integration with larger AGI assessment frameworks
+* Long-term memory and planning benchmarks
+* Human-AI cognitive performance analysis
+
+These directions can help provide a more comprehensive understanding of executive cognitive abilities in advanced AI systems
