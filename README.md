@@ -75,10 +75,6 @@ Track: **Executive Functions**
 **Vedant Jaiswal**
 
 ---
-
-## License
-This project is intended for research and educational purposes.
-
 ## Future Work
 
 Potential extensions of this benchmark include:
